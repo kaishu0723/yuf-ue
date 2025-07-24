@@ -1,0 +1,15 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln
+*.opensdf
+*.sdf
+*.tmp
+*.log
+*.vs/
