@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Unreal Engine
 Binaries/
 DerivedDataCache/
@@ -15,6 +16,8 @@ Saved/
 *.log
 *.vs/
 =======
+=======
+>>>>>>> bc01146db03705b1f2d6618fe70fdae81ed39843
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -90,4 +93,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+<<<<<<< HEAD
 >>>>>>> 2dcbcca37d6144aab8d1b1807162788c172d52e0
+=======
+>>>>>>> bc01146db03705b1f2d6618fe70fdae81ed39843
